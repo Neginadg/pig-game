@@ -88,7 +88,15 @@ To modify the game:
 
 ## 📸 Screenshots
 
-*Add screenshots of your game here*
+### Game Interface
+![Pig Game Screenshot](screenshots/game-screenshot.png)
+*The main game interface showing dice, scores, and player controls*
+
+### Gameplay in Action
+![Gameplay Screenshot](screenshots/gameplay.png)
+*Players taking turns and accumulating scores*
+
+> **Note:** Replace the screenshot filenames above with your actual screenshot filenames
 
 ## 📄 License
 
