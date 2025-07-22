@@ -101,18 +101,6 @@ _The main game interface showing dice, scores, and player controls_
 
 Experience the Pig Game directly in your browser - no downloads required!
 
-> **Note:** The live demo will be available once GitHub Pages is enabled for this repository. See setup instructions below.
-
-### 🚀 Setting up GitHub Pages:
-
-1. Go to your repository: `https://github.com/Neginadg/pig-game`
-2. Click on **Settings** tab
-3. Scroll down to **Pages** in the left sidebar
-4. Under **Source**, select **Deploy from a branch**
-5. Choose **main** branch and **/ (root)** folder
-6. Click **Save**
-7. Your game will be live at: `https://neginadg.github.io/pig-game/`
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
