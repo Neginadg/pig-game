@@ -13,10 +13,12 @@ A fun dice game built with vanilla JavaScript! Roll the dice, accumulate points,
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional installations required!
 
 ### Running the Game
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/Neginadg/pig-game.git
@@ -89,14 +91,27 @@ To modify the game:
 ## 📸 Screenshots
 
 ### Game Interface
-![Pig Game Screenshot](screenshots/game-screenshot.png)
-*The main game interface showing dice, scores, and player controls*
 
-### Gameplay in Action
-![Gameplay Screenshot](screenshots/gameplay.png)
-*Players taking turns and accumulating scores*
+![Pig Game Screenshot](screenshots/gameScreen.png)
+_The main game interface showing dice, scores, and player controls_
 
-> **Note:** Replace the screenshot filenames above with your actual screenshot filenames
+## 🌐 Live Demo
+
+🎮 **[Play the Game Live!](https://neginadg.github.io/pig-game/)**
+
+Experience the Pig Game directly in your browser - no downloads required!
+
+> **Note:** The live demo will be available once GitHub Pages is enabled for this repository. See setup instructions below.
+
+### 🚀 Setting up GitHub Pages:
+
+1. Go to your repository: `https://github.com/Neginadg/pig-game`
+2. Click on **Settings** tab
+3. Scroll down to **Pages** in the left sidebar
+4. Under **Source**, select **Deploy from a branch**
+5. Choose **main** branch and **/ (root)** folder
+6. Click **Save**
+7. Your game will be live at: `https://neginadg.github.io/pig-game/`
 
 ## 📄 License
 
@@ -105,6 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Neginadg**
+
 - GitHub: [@Neginadg](https://github.com/Neginadg)
 
 ## 🙏 Acknowledgments
